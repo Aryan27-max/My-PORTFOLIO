@@ -3,7 +3,7 @@ import Hero from './sections/Hero.jsx'
 const App = () => {
     return (
         <React.Fragment>
-            <div>Hero</div>
+            <Hero/>
         </React.Fragment>
     )
 }
