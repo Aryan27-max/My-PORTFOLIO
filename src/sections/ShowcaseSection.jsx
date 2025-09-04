@@ -66,7 +66,7 @@ const AppShowcase = () => {
                         <div className="project" ref={libraryRef}>
                             <div className="image-wrapper bg-[#FFEFDB]">
                                 <img
-                                    src="/images/SKybox.png"
+                                    src="/images/project2.png"
                                     alt="Library Management Platform"
                                 />
                             </div>
@@ -75,7 +75,7 @@ const AppShowcase = () => {
 
                         <div className="project" ref={ycDirectoryRef}>
                             <div className="image-wrapper bg-[#FFE7EB]">
-                                <img src="/images/BUDget.png" alt="YC Directory App" />
+                                <img src="/images/bgt.png" alt="YC Directory App" />
                             </div>
                             <h2>Budger Tasker - start your financial journey</h2>
                         </div>
