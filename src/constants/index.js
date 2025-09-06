@@ -74,71 +74,71 @@ const logoIconsList = [
 const abilities = [
     {
         imgPath: "/images/seo.png",
-        title: "Quality Focus",
-        desc: "Delivering high-quality results while maintaining attention to every detail.",
+        title: "Frontend Development",
+        desc: "Crafting responsive, accessible, and visually engaging interfaces using React, Tailwind, GSAP, and Three.js to bring ideas to life.",
     },
     {
         imgPath: "/images/chat.png",
-        title: "Reliable Communication",
-        desc: "Keeping you updated at every step to ensure transparency and clarity.",
+        title: "Backend & DevOps",
+        desc: "Building scalable APIs and systems with Node.js, Express, Firebase, and CI/CD pipelines, ensuring smooth deployments on Vercel/Render.",
     },
     {
         imgPath: "/images/time.png",
-        title: "On-Time Delivery",
-        desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+        title: "AI & ML",
+        desc: "Designing intelligent solutions with PyTorch, OpenCV, and real-time data pipelines, focusing on edge inference and applied ML projects.",
     },
 ];
 
 const techStackImgs = [
     {
-        name: "React Developer",
+        name: "React Developmet",
         imgPath: "/images/logos/react.png",
     },
     {
-        name: "Python Developer",
+        name: "Python Development",
         imgPath: "/images/logos/python.svg",
     },
     {
-        name: "Backend Developer",
+        name: "Backend Development",
         imgPath: "/images/logos/node.png",
     },
     {
-        name: "Interactive Developer",
+        name: "Interactive Development",
         imgPath: "/images/logos/three.png",
     },
     {
-        name: "Project Manager",
+        name: "Project Managment",
         imgPath: "/images/logos/git.svg",
     },
 ];
 
 const techStackIcons = [
     {
-        name: "React Developer",
+        name: "React Development",
         modelPath: "/models/react_logo-transformed.glb",
         scale: 1,
         rotation: [0, 0, 0],
     },
     {
-        name: "Python Developer",
+        name: "Python Development",
         modelPath: "/models/python-transformed.glb",
         scale: 0.8,
         rotation: [0, 0, 0],
     },
     {
-        name: "Backend Developer",
+        name: "Backend Development",
         modelPath: "/models/node-transformed.glb",
         scale: 5,
         rotation: [0, -Math.PI / 2, 0],
     },
     {
-        name: "Interactive Developer",
+        name: "Interactive Development",
         modelPath: "/models/three.js-transformed.glb",
         scale: 0.05,
         rotation: [0, 0, 0],
     },
     {
-        name: "Project Manager",
+        name: "Project Managment",
         modelPath: "/models/git-svg-transformed.glb",
         scale: 0.05,
         rotation: [0, -Math.PI / 4, 0],
@@ -246,19 +246,18 @@ const testimonials = [
 
 const socialImgs = [
     {
-        name: "insta",
-        imgPath: "/images/insta.png",
-    },
-    {
-        name: "fb",
-        imgPath: "/images/fb.png",
+        name: "github",
+        url: "https://github.com/Aryan27-max",
+        imgPath: "/images/github_11zon.png",
     },
     {
         name: "x",
+        url: "https://x.com/aryan2005_raj",
         imgPath: "/images/x.png",
     },
     {
         name: "linkedin",
+        url: "https://www.linkedin.com/in/aryan-gupta-1058aa209/",
         imgPath: "/images/linkedin.png",
     },
 ];
